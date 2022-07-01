@@ -1,7 +1,7 @@
 # Frontend-Online-Store
 
 <p>
-   Um em grupo projeto feito utilizando <b>React.js</b>, após quatro messes estudando programação.
+   Um projeto em grupo projeto feito utilizando <b>React.js</b>, após quatro meses estudando programação.
    <br>O objetivo do projeto é criar uma pagina de vendas utilizando a API do <b>Mercado Livre</b>.
 </p>
 
